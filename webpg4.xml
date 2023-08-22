@@ -1,0 +1,54 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+
+<employees>
+    <employee>
+        <employeeID>12346</employeeID>
+        <personalInfo>
+            <firstName>Catherin</firstName>
+            <lastName>Fogy</lastName>
+            <Dob>2002-03-04</Dob>
+            <gender>Female</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>Senior Manager</position>
+            <salary>200000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>catherinfpgy2002@gmail.com</email>
+            <phoneNumber>9875432423</phoneNumber>
+        </contactInfo>
+    </employee>
+    <employee>
+        <personalInfo>
+            <firstName>Anu</firstName>
+            <lastName>Anupam</lastName>
+            <Dob>1992-08-12</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>Senior Analyst</position>
+            <salary>2000000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>anu@gmail.com</email>
+            <phoneNumber>9975432437</phoneNumber>
+        </contactInfo>
+    </employee>
+    <employee>
+        <employeeID>12345</employeeID>
+        <personalInfo>
+            <firstName>Varghese</firstName>
+            <lastName>Fogy</lastName>
+            <Dob>1996-07-25</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>HR Manager</position>
+            <salary>500000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>varky@gmail.com</email>
+            <phoneNumber>9888754324</phoneNumber>
+        </contactInfo>
+    </employee>
+</employees>
